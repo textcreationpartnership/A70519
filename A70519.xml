@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Last dying speeches and confessions of the three notorious malefactors who were executed at Tyburn on the 4th of this instant March 1681 giving an account of the several crimes for which they suffered which are as followeth, John Sadler for whipping a girl to death at Ratcliff, Roger Maiden for eight fellonies and burglarys, Elizabeth Brown, alias White-head, for robbing the Two Cocks on London-Bridge and endeavouring to cut the maids throat : with their pentitential confessions as well in prison as at the place of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70519</idno>
+            <idno type="STC">Wing L482A</idno>
+            <idno type="STC">ESTC R27235</idno>
+            <idno type="EEBO-CITATION">09725886</idno>
+            <idno type="OCLC">ocm 09725886</idno>
+            <idno type="VID">44052</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44052)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:29 or 1724:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Last dying speeches and confessions of the three notorious malefactors who were executed at Tyburn on the 4th of this instant March 1681 giving an account of the several crimes for which they suffered which are as followeth, John Sadler for whipping a girl to death at Ratcliff, Roger Maiden for eight fellonies and burglarys, Elizabeth Brown, alias White-head, for robbing the Two Cocks on London-Bridge and endeavouring to cut the maids throat : with their pentitential confessions as well in prison as at the place of execution.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>This item appears at reel 1339:29 as Wing S277 (number cancelled in Wing 2nd ed.), and at reel 1724:3 as Wing L482A.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44052:1"/>
+            <!-- PDF PAGE 46 -->
+            <pb facs="tcp:44052:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <head>THE LAST Dying Speeches And Confeſſions of the Three Notorious Malefactors who were Executed at <hi>TYB<g ref="char:V">Ʋ</g>RN;</hi> on the 4th. of this Inſtant <hi>March,</hi> 1681. Giving an Account of the ſeveral Crimes for which they ſuffered: which are as followeth; John Sadler, For Whipping a Girl to Death at <hi>Ratcliff.</hi> Roger Maiden, For Eight FELLONIES and BURGLARYS. Elizabeth Brown, <hi>alias</hi> White-head, For Robbing the Two <hi>Cocks</hi> on <hi>London-Bridge,</hi> and endeavouring to Cut the Maids Throat. <hi>With their penitential Confeſſions as well in Priſon, as at the place of EXEC<g ref="char:V">Ʋ</g>TION.</hi>
+            </head>
+            <p>BEfore we enter upon the Confeſſions, it has been thought fit to give the Reader a particular account of the Crime for which every Offender ſuffers, the firſt of which de<g ref="char:EOLhyphen"/>plorable Wretches we ſhall begin withal, is, one <hi>John Sadler,</hi> who was by his Imploy a Bailiffs Follower, lodging at one <hi>Latice VVigingtons</hi> houſe, a School-miſtris or Sempſtreſs, living in the Pariſh of <hi>Ratcliff,</hi> the ſaid <hi>VVigington</hi> keeping many Apprentices and Scholers to work, amongſt which, was one <hi>Elizabeth Holton,</hi> a Girl about Thirteen years of Age, whom as they affirmed, had at ſeveral times purloyned things out of the Houſe, amongſt which, was ſome Linnen of the Priſoners, which he did not charge her with till about the 24 of <hi>Decem.</hi> laſt;
+<pb n="2" facs="tcp:44052:2"/>
+               <!-- PDF PAGE 47 -->When as her Miſtris to whom ſhe was Apprentice, having ſent her of an Errand to carry ſome things home which had been bought there, did charge her with defrauding of two ſhillings or ſome ſuch inconſiderable Sum, which the Girl utterly deny<g ref="char:EOLhyphen"/>ing, ſhe got the Priſoner, (who as the Evidence in Court did affirm was her Gallant) to aſſiſt her in giving the Girl Correcti<g ref="char:EOLhyphen"/>on, when they ſhuting all the doors, got ſeveral Whip-cords which they knoted and tyed to a ſtick, by moſt called a <hi>Cat of Nine-Tails,</hi> then tying her by the Wriſt, hung her up upon a Hook, where they having ſtripped her, the Priſoner with the aforeſaid Cords, beat her upon the bare fleſh for the ſpace of an hour, all which time the woman (who for the ſame Fact was the Seſſions before condemned, and pleaded her Belly) ſtop<g ref="char:EOLhyphen"/>ped her mouth leaſt the neighbours ſhould hear her cry; then being weary of his cruel uſage, he deſiſted, and fell to it again about half an hour afterwards, and ſo continued at ſeveral times, for the ſpace of four hours, and as often as the Blood poured down, they rubbed the Wounds with Salt: This was ſworn to in Court, and himſelf could not deny it, the Girl Dy<g ref="char:EOLhyphen"/>ing three days afterwards; for which Hainous fact he received Sentence of death on the 26th. of <hi>February</hi> laſt, and from the Seſſions-Houſe conveyed back to <hi>Newgate,</hi> where he continued very penſive, much bewailing his ſad ſtate, ſaying; <hi>That he had lived a moſt Notorious and Wicked Life, not only in all manner of Debaucheries, as VVhoring, Drunkenneſs, and the like; but that he had been a great Oppreſſor of poor People, and a continu<g ref="char:EOLhyphen"/>al Sabbath-breaker, for which Sins he ſuppoſed God had given him up to commit this Barbarous Murther for which he now ſuffered;</hi> ſaying, <hi>That the woman had been a great Inſtrument to prompt him on to wickedneſs, and that ſhe was the cauſe he had committed ſo foul a</hi> Murther which now ſtuck ſore upon his conſcience, yet he hoped God would at the laſt except of his returning to him, and that he would waſh away the Innocent blood which he had ſhed, with the meritorious death and paſſion of his Redeemer, and that he hoped to be cleanſed in his blood, with many other pious expreſſions which he uſed to ſeveral that came to ſee him during the intervene of time, and on this day when he was put into the Cart, in order to be drawn to the place of Execution, he deſired all to pray for him, and ſo continued till the Execu<g ref="char:EOLhyphen"/>tioner did his office.</p>
+            <pb n="3" facs="tcp:44052:2"/>
+            <!-- PDF PAGE 47 -->
+            <p>The next in this ſhameful and untimely ſuffering, was one <hi>Roger Maiden,</hi> who formerly lived in <hi>Acorn</hi>-Alley near <hi>Spittle-fields,</hi> his Crimes for which he ſuffered, were numerous, for he was Indicted no leſs then Eight times for ſeveral Fellonies and Burglaries, which were all committed in the ſpace of 6 weeks, in <hi>Shadwell, Stepney,</hi> and <hi>VVhite Chappel;</hi> the names of the perſons that he in the company of one <hi>John Maiden, Aiden,</hi> and <hi>John Motly,</hi> were theſe, <hi>James Porter, Jane Harris, VVil<g ref="char:EOLhyphen"/>liam Addams, Samuel Banfield, Phillip Story, Thomas Hopkins, Anthony Fowler,</hi> and <hi>Mary Clark,</hi> from either of them ſtealing conſiderable quantities of Goods to a great value: Of Seven Fellonies and Burglary he being found Guilty, and onely ac<g ref="char:EOLhyphen"/>quitted, of one Fellony he received Sentence of death, after which he ſeem'd very melancholly and ſtupifi'd for a conſider<g ref="char:EOLhyphen"/>able time, but finding that Death was certain, and that no Reprieve could be expected, he began to enquire of ſeveral Miniſters that came to ſee him, how he might obtain a pardon for his ſins, deſiring that they would offer up their Prayers to God for to give him the Spirit of Prayer, which by reaſon of his former wicked Life he had loſt; ſaying that he had been in above Forty Robberies, and helped to undooe many poor and honeſt people, for which he hoped God would forgive him: Theſe and many other expreſſions he uſed to the laſt, deſiring all to take warning by his wretched fate, and not to give their youth and ſtrength to ſerve the Devil as he had done, but he hoped God would forgive him all his offences, and he hoped his downfall would be a warning to all that were ſpectators of the ſame.</p>
+            <p>
+               <hi>Elizabeth VVhitehead,</hi> alias <hi>Brown,</hi> who about half a Year ſince was Condemned, for that ſhe in the Company of one <hi>Thomas Brown,</hi> alias <hi>More,</hi> executed, knocking at the Door of one Mr. <hi>King,</hi> at the Two fighting Cocks on <hi>London-Bridge,</hi> it being on a <hi>Sabbath-day,</hi> when they were all (the Maid onely excepted) gone to Church, under pretence of being Couſin to the Gentleman of the Houſe, got ſo much credit with the Maid as to let them in, when ſhe ceaſing on her, en<g ref="char:EOLhyphen"/>deavoured to ſtill her out-cry by Cutting of her Throat, which ſhe endeavouring to hinder, they cut her Hands and Face moſt miſerably, then binding her, took in Plate and Moneys to the value of Four Hundred pounds, but e're they
+<pb n="4" facs="tcp:44052:3"/>
+               <!-- PDF PAGE 48 -->got out of the Houſe ſhe got looſe, and ſhutting her ſelf into a Room, eryed out, whereupon help coming, the Priſoner got down upon the Piles and there was taken, the which upon her Tryal ſhe not denying, ſhe was found Guilty, and re<g ref="char:EOLhyphen"/>ceived Sentence of Death, but pleading her Belly, was reſpited till this day, and during the ſaid interview, ſhe ſhewed great Contrition, and much Lamented her Loſt and Deplorable Condition, deſiring all people to pray for her, ſaying; That ſhe had been a grievous Sinner, and that ſhe had been the cauſe of many Mans Ruine, and eſpecially of the a<g ref="char:EOLhyphen"/>foreſaid <hi>More,</hi> (alias) <hi>Browns,</hi> whom ſhe had drawn into the Robbery, for which ſhe deſired God would pardon her Offences, and Dyed very penitently.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>T. B.</hi> in the Year, <hi>1681:</hi>
+            </p>
+            <pb facs="tcp:44052:3"/>
+            <!-- PDF PAGE 48 -->
+         </div>
+      </back>
+   </text>
+</TEI>
